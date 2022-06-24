@@ -1,2 +1,2 @@
-echo Probando
+print Probando
 pause
