@@ -1,2 +1,2 @@
-echo Probando
+@echo Probando
 pause
